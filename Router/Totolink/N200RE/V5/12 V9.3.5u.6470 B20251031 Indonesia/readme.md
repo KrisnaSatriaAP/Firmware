@@ -1,0 +1,3 @@
+N200RE_V5_Indonesia_V6470	
+Version=V9.3.5u.6470_B20251031	
+Updated=2025-10-31	
