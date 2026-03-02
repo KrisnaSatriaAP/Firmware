@@ -1,0 +1,14 @@
+Petunjuk
+Setelah upgrade di reset dulu dan di setting ulang
+
+Tutorial :
+1. Login ke ONT, username:superadmin password:superoem
+2. Ke menu Manage
+3. Ke menu Upgrade
+4. Pilih tclinux.bin
+5. Klik Choose File
+6. Masukkan firmware format .bin (misal tclinux_ZL2113_V2217_251103.bin)
+7. Klik apply untuk memproses
+8. Tunggu hingga reboot otomatis
+9. Reset to default
+10. Setting ulang
